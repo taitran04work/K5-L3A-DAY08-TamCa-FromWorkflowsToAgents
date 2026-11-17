@@ -1,11 +1,11 @@
-# Báo cáo cá nhân — 20240001_TranMinhAnh
+# Báo cáo cá nhân — 2A202603944_TranHuuTai
 
 ## 1. Thông tin thành viên
 
-- Họ tên: Trần Minh Anh
-- MSSV: 20240001
-- Email: anh.tm@example.edu.vn
-- GitHub: tmanh
+- Họ tên: Trần Hữu Tài
+- MSSV: 2A202603944
+- Email:
+- GitHub:
 
 ## 2. Phần việc phụ trách
 

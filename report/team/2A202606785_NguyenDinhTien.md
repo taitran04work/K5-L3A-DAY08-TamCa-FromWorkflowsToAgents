@@ -1,11 +1,11 @@
-# Báo cáo cá nhân — 20240004_VoQuocDung
+# Báo cáo cá nhân — 2A202606785_NguyenDinhTien
 
 ## 1. Thông tin thành viên
 
-- Họ tên: Võ Quốc Dũng
-- MSSV: 20240004
-- Email: dung.vq@example.edu.vn
-- GitHub: vqdung
+- Họ tên: Nguyễn Đình Tiến
+- MSSV: 2A202606785
+- Email:
+- GitHub:
 
 ## 2. Phần việc phụ trách
 

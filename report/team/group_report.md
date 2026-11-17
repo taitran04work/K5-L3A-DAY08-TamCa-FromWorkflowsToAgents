@@ -12,7 +12,7 @@ Tối đa 5 trang ngoài phụ lục. Số liệu lấy từ file trong `src/rep
 
 Bài toán: xử lý claim hoàn phí vận chuyển của LogiX-VN bằng bốn kiến trúc có cùng chữ ký `run_claim`, rồi chọn kiến trúc ít tự chủ nhất mà vẫn đúng. Điểm nhóm thống nhất ngay từ CP1: số tiền, approval và chống ghi trùng là việc của **code** (`compute_compensation` và host `durability.issue_refund`); model chỉ đọc và soạn chữ. Chữ trong ticket là dữ liệu, không phải lệnh.
 
-Chia việc (nhóm 4 người): Anh viết workflow trước làm bản chuẩn và lo tích hợp; Bảo và Hà dựa trên luồng của workflow để viết single và orchestrator song song; Dũng chạy crash suite, benchmark và viết ADR. Thứ tự: workflow → single → orchestrator → đo cả 4 shape (swarm có sẵn).
+Chia việc (nhóm 4 người): Tài viết workflow trước làm bản chuẩn và lo tích hợp; Công và Quyến dựa trên luồng của workflow để viết single và orchestrator song song; Tiến chạy crash suite, benchmark và viết ADR. Thứ tự: workflow → single → orchestrator → đo cả 4 shape (swarm có sẵn).
 
 ## 3. Giải pháp
 

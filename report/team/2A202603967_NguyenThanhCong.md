@@ -1,11 +1,11 @@
-# Báo cáo cá nhân — 20240002_LeHoangBao
+# Báo cáo cá nhân — 2A202603967_NguyenThanhCong
 
 ## 1. Thông tin thành viên
 
-- Họ tên: Lê Hoàng Bảo
-- MSSV: 20240002
-- Email: bao.lh@example.edu.vn
-- GitHub: lhbao
+- Họ tên: Nguyễn Thành Công
+- MSSV: 2A202603967
+- Email:
+- GitHub:
 
 ## 2. Phần việc phụ trách
 

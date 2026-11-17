@@ -1,11 +1,11 @@
-# Báo cáo cá nhân — 20240003_PhamThuHa
+# Báo cáo cá nhân — 2A20260564_DongVanQuyen
 
 ## 1. Thông tin thành viên
 
-- Họ tên: Phạm Thu Hà
-- MSSV: 20240003
-- Email: ha.pt@example.edu.vn
-- GitHub: ptha
+- Họ tên: Đồng Văn Quyến
+- MSSV: 2A20260564
+- Email:
+- GitHub:
 
 ## 2. Phần việc phụ trách
 
